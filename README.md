@@ -1,4 +1,4 @@
-# Daily Locally Repository Overview
+# Eat From Home Repository Overview
 
 Eat From Home is India's first mobile on-demand food delivery platform exclusively for home-cooked food. It has an Android mobile app, where users can order food from registered homemakers around them, completely on-demand. The code for this project is split into three main components. 
 
